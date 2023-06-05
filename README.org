@@ -5,5 +5,5 @@ Common Lisp Graylog client library
 |---------+------------------------------------------------|
 | source  | git:https://github.com/mmontone/cl-graylog.git |
 | commit  | 84c40bf                                        |
-| systems | cl-graylog                                     |
+| systems | graylog                                        |
 |---------+------------------------------------------------|
